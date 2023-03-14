@@ -57,3 +57,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 - Cypress ^9.7.0
 - Webpack Development Server ^3.11.2
+
+## Thank You
+
+It is always appreciated when someone takes the time to take a look at one of my projects! 
