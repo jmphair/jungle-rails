@@ -7,15 +7,15 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 Jungle Home Page:
 
-!["Screenshot of home page."](https://github.com/jmphair/scheduler/blob/master/docs/appointments.png?raw=true)
+!["Screenshot of home page."](https://github.com/jmphair/jungle-rails/blob/master/public/images/Home-Page.png?raw=true)
 
 Jungle Cart:
 
-!["Screenshot of cart."](https://github.com/jmphair/scheduler/blob/master/docs/add-appointment.png?raw=true)
+!["Screenshot of cart."](https://github.com/jmphair/jungle-rails/blob/master/public/images/Cart.png?raw=true)
 
 Jungle Checkout:
 
-!["Screenshot of checkout."](https://github.com/jmphair/scheduler/blob/master/docs/error-handling.png?raw=true)
+!["Screenshot of checkout."](https://github.com/jmphair/jungle-rails/blob/master/public/images/Checkout.png?raw=true)
 
 ## Setup
 
